@@ -1,13 +1,13 @@
-## About jackkillian.github.io
+## Awesome Python Modules
 ---
+### About this site
 Jackkillian.github.io contains fun Python 3.7.2 modules. To install them with pip, run the following code on your command line: ```pip install [module name to be installed]``` Or you could download them from Github.
 ---
+Tutorial: https://dzone.com/articles/executable-package-pip-install
 ---
-[""] (https://dzone.com/articles/executable-package-pip-install)
----
- [editor on GitHub](https://github.com/Jackkillian/jackkillian.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## JPyTools
+#### First module made!
+To download from GitHub, [click here.] (https://github.com/Jackkillian/JPyTools) To install with pip, run this code in your command line: ```pip install jpytools```
 
 ### Markdown
 
