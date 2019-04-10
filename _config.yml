@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
 title: Want some cool Python modules? You came to the right place!
 desription: Other content may be added soon!
+plugins:
+  - jekyll-redirect-from
