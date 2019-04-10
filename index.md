@@ -12,6 +12,7 @@ DISCLAIMER: This is my first module, so I’m sorry if you don’t like it. | So
 ##### GitHub: [JPyTools](github.com/Jackkillian/JPyTools)  
 
 ### NEW! JK Dashboard: Please help!
+#### Note: This repository has been deleted for adding all files to it. It will be back soon.
 ##### Description:
 #### Welcome to JK Dashboard
 JK Dashboard is a cool Python program that has a Tkinter GUI, and is awesome! You can either create extensions, use buit-in apps, use extensions from other JK Python apps, or download extensions from the community! Pretty cool, right? Well, please help make it better! It is a little complicated, but we need help. See the wiki for more details.
