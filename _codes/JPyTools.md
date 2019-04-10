@@ -1,5 +1,6 @@
 ---
 title: JPyTools
+layout: page
 ---
 JPyTools is a collection of little fun functions.  
 Download with pip: ```pip install JPyTools```
