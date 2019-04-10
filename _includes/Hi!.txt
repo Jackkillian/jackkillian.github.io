@@ -1,9 +1,0 @@
-Hi! So, this is a text editor. 
-Do you like it?
-ABCDEFGHIJKLMNOPQRSTUVWXYZ
-abcdefghijklmnopqrstuvwxyz
-1234567890
-!@#$%^&*()
--=_+[]{}\|
-;:'",.<>?/
-~`
