@@ -18,11 +18,11 @@ JK Dashboard is a cool Python program that has a Tkinter GUI, and is awesome! Yo
 ##### Pip: NOT AVAILABLE ON PIP YET
 ##### GitHub: [JK Dashboard](https://github.com/Jackkillian/JK-Dashboard)
 
-### Dev - JPyLogging
+### Dev - JPyLogger
 #### Description:
 ##### JPyLogger
 JPyLogger makes it easy to log like a pro in Python!  
 Create a great log in Python with this module!  
 For Python 3+
 ##### Pip: NOT AVAILABLE ON PIP YET
-##### GitHub: [JPyLoggerTools](https://github.com/Jackkillian/JPyLogger)
+##### GitHub: [JPyLogger](https://github.com/Jackkillian/JPyLogger)
