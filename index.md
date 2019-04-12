@@ -25,4 +25,4 @@ JPyLogger makes it easy to log like a pro in Python!
 Create a great log in Python with this module!  
 For Python 3+
 ##### Pip: NOT AVAILABLE ON PIP YET
-##### GitHub: [JPyLoggerTools](https://github.com/Jackkillian/JK-Dashboard)
+##### GitHub: [JPyLoggerTools](https://github.com/Jackkillian/JPyLogger)
