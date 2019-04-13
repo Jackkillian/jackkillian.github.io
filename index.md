@@ -26,3 +26,7 @@ Create a great log in Python with this module!
 For Python 3+
 ##### Pip: NOT AVAILABLE ON PIP YET
 ##### GitHub: [JPyLogger](https://github.com/Jackkillian/JPyLogger)
+
+# Contact
+
+# Other
