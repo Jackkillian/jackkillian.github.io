@@ -9,7 +9,7 @@ Jackkillian.github.io contains fun Python 3+ modules.
 ##### JPyTools
 DISCLAIMER: This is my first module, so I’m sorry if you don’t like it. | Sorry you can’t see the versions below 0.0.5. I had to change a bunch of stuff about the project. | A little collection of functions. Don’t forget, this is only alpha, but when it is finished it will have a lot of functions! So stay up to date! Here’s the GitHub link: JPyTools on GitHub And the command line code: pip install jpytools. Also, check out JPyLogger - Jack Freund, author of JPyTools
 ##### Pip: ```pip install JPyTools```
-##### GitHub: [JPyTools](github.com/Jackkillian/JPyTools)  
+##### GitHub: [JPyTools](https://github.com/Jackkillian/JPyTools)  
 
 ## NEW! JK Dashboard: Please help!
 ##### Description:
