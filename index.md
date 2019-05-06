@@ -27,6 +27,11 @@ For Python 3+
 ##### Pip: NOT AVAILABLE ON PIP YET
 ##### GitHub: [JPyLogger](https://github.com/Jackkillian/JPyLogger)
 
+### JPyMail
+#### Dscription:
+JPyMail is a Python 3 module that helps you do stuff with mail with ease.
+##### Pip: NOT AVAILBLE ON PIP YET
+##### GitHub: [JPyMail](https://github.com/Jackkillian/JPyMail)
 # Contact
 
 # Other
