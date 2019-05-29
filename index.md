@@ -1,3 +1,6 @@
+## Main Page
+##### NOTICE: JK TEXTY IS RELEASED!
+***
 <html>
 <head>
 </head>
@@ -14,3 +17,5 @@
 <p><a href="https://sites.google.com/view/jk-texty-website/installing"><span style="font-family:courier new,courier,monospace;">How to install JK Texty</span></a></p>
 </body>
 </html>
+***
+# Python coding with Jackkillian
