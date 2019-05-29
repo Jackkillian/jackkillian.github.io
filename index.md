@@ -2,7 +2,7 @@
 ---
 # Hold it!
 JK Texty is released! Click [here](/JK-Texty "JK Texty website v1.0") to go to its website.
----
+  
 # About this site
 Jackkillian.github.io contains fun Python 3+ modules.
 
