@@ -1,5 +1,4 @@
 ## Main Page
-##### NOTICE: JK TEXTY IS RELEASED!
   
   
 # Python coding with Jackkillian
